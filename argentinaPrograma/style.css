@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    font-family: "Quicksand";
+}
 
 /*--------------------*/
 /*imagenes html,css y js*/
@@ -28,4 +32,12 @@ img{
 
 .container{
     max-width: 700px;  
+}
+#footer_personalizado{
+    background-color: black;
+   
+}
+
+#footer_titulo{
+    color:  rgb(168, 29, 124);
 }
