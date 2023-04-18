@@ -12,9 +12,7 @@ const progressText=document.querySelectorAll(".paso p")
 const progressCheck=document.querySelectorAll(".paso .check")
 const num=document.querySelectorAll(".paso .num")
 
-var newUser="";
-let max = 4;
-let cont  = 1;
+
 
 /////////////////////////////
 /////////////////////////////
